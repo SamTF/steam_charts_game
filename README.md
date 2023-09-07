@@ -1,10 +1,10 @@
 # [steam_charts_game](https://discord.com/oauth2/authorize?client_id=837341144718245988&scope=bot&permissions=2147534848)
 
-![banner]([https://i.imgur.com/C5xIPAU.jpg](https://i.imgur.com/JuI9PuS.png))
+![banner](https://i.imgur.com/JuI9PuS.png)
 
 A **Discord Bot game** where you have to guess which Steam game has the most concurrent players at the moment.
 
-[screenshot1](https://i.imgur.com/PdeMid5.png)
+![screenshot1](https://i.imgur.com/PdeMid5.png)
 
 ## Main features
 - Very simple and intuitive
@@ -14,17 +14,15 @@ A **Discord Bot game** where you have to guess which Steam game has the most con
 - Your score streak is tracked
 - Data is scrapped from [Steam Charts](https://steamcharts.com/)
 
-[screenshot2](https://i.imgur.com/oGolHFw.png)
+![screenshot2](https://i.imgur.com/oGolHFw.png)
 
-[screenshot3](https://i.imgur.com/eypidDj.png)
+![screenshot3](https://i.imgur.com/eypidDj.png)
 
 ## Lore
 Steam Charts Game was inspired in part by the classic browser game [Higher or Lower](http://www.higherlowergame.com/) - but with Steam games instead of Google searches.
 It was also inspired by my buddy Joey constantly telling me that TF2 is a dead game despite it consistently being in the most played games on Steam.
 
-![video](https://i.imgur.com/WCOIBQh.mp4)
-
-https://i.imgur.com/WCOIBQh.mp4
+![video](https://i.imgur.com/zr7R4KQ.gif)
 
 ## Impressed? Need someone like me?
 Offer me a job :)
